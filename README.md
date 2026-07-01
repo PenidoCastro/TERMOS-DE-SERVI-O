@@ -60,7 +60,7 @@
 
 ## 5. Coleta e Tratamento de Dados Pessoais
 
-**5.1.** Os dados pessoais fornecidos serão tratados conforme nossa [Política de Privacidade]([URL_DA_POLITICA_DE_PRIVACIDADE](https://github.com/PenidoCastro/PRIVACY-POLICY)).
+**5.1.** Os dados pessoais fornecidos serão tratados conforme nossa [Política de Privacidade]((https://github.com/PenidoCastro/PRIVACY-POLICY)).
 
 **5.2.** O cliente consente com:
 
