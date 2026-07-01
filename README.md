@@ -86,7 +86,7 @@
 
 - **(a)** Enviando a palavra **"SAIR"** ou **"STOP"** pelo WhatsApp;
 - **(b)** Solicitando ao atendente humano;
-- **(c)** Enviando e-mail para **[E-MAIL DO DPO]**.
+- **(c)** Enviando e-mail para **atendimento@penidocastro.com**.
 
 **7.2.** Após o cancelamento:
 
@@ -130,12 +130,11 @@
 
 | | |
 |---|---|
-| **Encarregado (DPO):** | [NOME] |
-| **E-mail:** | [E-MAIL] |
-| **Telefone:** | [TELEFONE] |
+| **E-mail:** | atendimento@penidocastro.com |
+| **Telefone:** | +55 71 9358-9436 |
 
 ---
 
 **Penido Castro Advocacia**
-CNPJ: [CNPJ]
-[ENDEREÇO]
+CNPJ: 66.104.893/0001-23
+Av. Tancredo Neves, 2539 - Edifício CEO Salvador, Caminho das Árvores, Salvador - BA.
