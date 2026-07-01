@@ -6,7 +6,7 @@
 
 ## 1. O Serviço
 
-**1.1.** O **[NOME DO ESCRITÓRIO]** presta serviços de consultoria e atendimento previdenciário por meio de chatbot no WhatsApp, com suporte de inteligência artificial e revisão humana obrigatória.
+**1.1.** O **Penido Castro Advocacia** presta serviços de consultoria e atendimento previdenciário por meio de chatbot no WhatsApp, com suporte de inteligência artificial e revisão humana obrigatória.
 
 **1.2.** O serviço inclui:
 
@@ -74,7 +74,7 @@
 
 **6.1.** Os documentos gerados durante o atendimento pertencem ao cliente, que pode utilizá-los como desejar.
 
-**6.2.** A metodologia, o software, os templates e demais ferramentas utilizadas na prestação do serviço pertencem ao **[NOME DO ESCRITÓRIO]**.
+**6.2.** A metodologia, o software, os templates e demais ferramentas utilizadas na prestação do serviço pertencem ao **Penido Castro Advocacia**.
 
 **6.3.** O cliente não pode reproduzir, distribuir ou modificar as ferramentas proprietárias sem autorização expressa.
 
@@ -98,7 +98,7 @@
 
 ## 8. Limitação de Responsabilidade
 
-**8.1.** O **[NOME DO ESCRITÓRIO]** **NÃO SE RESPONSABILIZA POR**:
+**8.1.** O **Penido Castro Advocacia** **NÃO SE RESPONSABILIZA POR**:
 
 - **(a)** Atrasos ou falhas decorrentes da plataforma WhatsApp, servidores de IA ou serviços de terceiros;
 - **(b)** Decisões tomadas pelo cliente com base apenas nas informações automatizadas, sem aguardar a revisão humana;
@@ -108,7 +108,7 @@
 
 **8.2.** O serviço é prestado **"como está"** e **"conforme disponível"**, sem garantias de disponibilidade ininterrupta.
 
-**8.3.** A responsabilidade total do **[NOME DO ESCRITÓRIO]** em qualquer caso está limitada ao valor efetivamente pago pelos serviços nos últimos 12 meses.
+**8.3.** A responsabilidade total do **Penido Castro Advocacia** em qualquer caso está limitada ao valor efetivamente pago pelos serviços nos últimos 12 meses.
 
 ---
 
@@ -116,7 +116,7 @@
 
 **9.1.** Estes Termos são regidos pela legislação brasileira.
 
-**9.2.** Fica eleito o foro da comarca de **[CIDADE/ESTADO]** para dirimir quaisquer controvérsias.
+**9.2.** Fica eleito o foro da comarca de **Salvador / BA** para dirimir quaisquer controvérsias.
 
 **9.3.** Estes Termos podem ser alterados a qualquer momento. Clientes ativos serão notificados sobre alterações relevantes via WhatsApp.
 
@@ -136,6 +136,6 @@
 
 ---
 
-**[NOME DO ESCRITÓRIO]**
+**Penido Castro Advocacia**
 CNPJ: [CNPJ]
 [ENDEREÇO]
